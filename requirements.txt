@@ -1,0 +1,10 @@
+openai
+pymupdf
+pytesseract
+pillow
+pandas
+chromadb
+sentence-transformers
+streamlit
+camelot-py[cv]
+tabulate
